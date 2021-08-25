@@ -10,7 +10,7 @@
        
        if(username==email&&password==pass){
          alert("Log-in Successfully")
-        window.open("newpage.html")
+        window.open("https://johnvengeonzon.github.io/Authentication/newpage.html")
        }
        
 else if(username==0 && password==0){
